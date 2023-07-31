@@ -11,7 +11,7 @@ This app uses UDP communication to read gyro data from Parrot Minidrones (Rollin
 6. Press the "Start Initialization" button to initiate UDP transmission. You can choose the max execution time (by default the value is 30).
 7. Press the "Start" button to plot received data on the Axes. The user can press the "Stop" button to halt plotting data.
 8. The transmission is terminated if the max execution time is reached.
-9. To restart a new transmission again, press the "Restart" button.
+9. To restart a new transmission again, press the "Reset" button.
     
 ![Alt text](/tumbnail.JPG?raw=true "Title")
 
